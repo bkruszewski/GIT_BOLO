@@ -1,0 +1,17 @@
+body {
+   background-color: red;
+}
+
+h1 {
+   color: brown ;
+}
+
+p {
+   color: blue;
+}
+
+form {
+margin:20px;
+padding:30px;
+
+}
